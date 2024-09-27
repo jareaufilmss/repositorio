@@ -6,3 +6,4 @@ console.log(soma(6,4));
 function area(numero3, numero4){
     return numero3*numero4
 }
+console.log(area(2, 2))
