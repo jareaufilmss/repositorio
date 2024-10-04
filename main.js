@@ -30,6 +30,6 @@ let estados=['PR','SC','RS','SP','RJ','MG','ES','MS','GO','MT','BA','SE','AL','P
 // adilene++;
 // }
 for (let rafael = 0; rafael < estados.length; rafael++) {
-    console.log(estados[rafael])
+    console.log(estados[rafael]);
     
 }
