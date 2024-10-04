@@ -34,7 +34,7 @@ let estados=['PR','SC','RS','SP','RJ','MG','ES','MS','GO','MT','BA','SE','AL','P
 //     console.log(estados[rafael]);
     
 // }
-let ana=18;
+let ana=parseInt(prompt(Qual a sua idade?));
 if(ana>17){
     console.log('pode dirigir');
 
