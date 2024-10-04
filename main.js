@@ -26,5 +26,5 @@ let estados=['PR','SC','RS','SP','RJ','MG','ES','MS','GO','MT','BA','SE','AL','P
 let adilene=0;
 while(adilene<10){
 console.log(adilene);
-adilene=adilene+1;
+adilene++;
 }
