@@ -34,3 +34,12 @@ for (let rafael = 0; rafael < estados.length; rafael++) {
     console.log(estados[rafael]);
     
 }
+let ana=18;
+if(ana>17)){
+    console.log('pode dirigir');
+
+}
+else{
+    console.log('ilegal dirigir');
+
+}
