@@ -23,3 +23,8 @@
 // document.write (media(valor1, valor2, valor3));
 
 let estados=['PR','SC','RS','SP','RJ','MG','ES','MS','GO','MT','BA','SE','AL','PE','PB','RN','CE','PI','MA','TO','PA','AP','RR','AM','AC','RO','DF']
+let adilene=0;
+while(adilene<10){
+console.log(adilene);
+adilene=adilene+1;
+}
