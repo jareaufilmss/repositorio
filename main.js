@@ -29,11 +29,11 @@ let estados=['PR','SC','RS','SP','RJ','MG','ES','MS','GO','MT','BA','SE','AL','P
 // console.log(estados[adilene]);
 // adilene++;
 // }
-for (let rafael = 0; rafael < estados.length; rafael++) {
-    console.log(rafael);
-    console.log(estados[rafael]);
+// for (let rafael = 0; rafael < estados.length; rafael++) {
+//     console.log(rafael);
+//     console.log(estados[rafael]);
     
-}
+// }
 let ana=18;
 if(ana>17){
     console.log('pode dirigir');
