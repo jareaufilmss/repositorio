@@ -24,7 +24,7 @@
 
 let estados=['PR','SC','RS','SP','RJ','MG','ES','MS','GO','MT','BA','SE','AL','PE','PB','RN','CE','PI','MA','TO','PA','AP','RR','AM','AC','RO','DF']
 let adilene=0;
-while(adilene<27){
+while(adilene<length){
 console.log(adilene);
 console.log(estados[adilene])
 adilene++;
