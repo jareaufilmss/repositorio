@@ -35,7 +35,7 @@ for (let rafael = 0; rafael < estados.length; rafael++) {
     
 }
 let ana=18;
-if(ana>17)){
+if(ana>17){
     console.log('pode dirigir');
 
 }
